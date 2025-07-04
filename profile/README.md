@@ -45,7 +45,6 @@
   A blind and motor accessibility mod for Plants Vs Zombies.
 - (all) Pokémon games:   [nuive/pokemon-access](https://github.com/nuive/pokemon-access)  
   Scripts which make Pokémon Games accessible to Screen Reader users.
-
   Supported games:
   - Pokémon Red, Blue and Yellow.
   - Pokémon Gold, Silver and Crystal.
