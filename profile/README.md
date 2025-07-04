@@ -27,6 +27,9 @@
   An accessibility mod for the video game Factorio, making the game accessible to the blind and visually impaired.
 - Fortnite:  [GreenBeanGravy/FA11y](https://github.com/GreenBeanGravy/FA11y)  
   FA11y is trying to be an all-in-one accessibility tool for blind and visually impaired Fortnite players without breaking the Fortnite EULA and TOS.
+- Gothic 1 or Gothic II: Night Of The Raven:  [Nuno69/YAGA](https://github.com/Nuno69/YAGA)  
+  Yet Another Gothic Accessibility Attempt.
+  YAGA is the union plugin which aims to make the game fully playable and accessible for the blind players.
 - Hades:  [hllf/Hades Accessibility Mods](https://github.com/game-a11y/Hades-Access)  
     - Archive/Mirror Repo: [game-a11y/Hades-Access](https://github.com/game-a11y/Hades-Access)
 - Hades II:  [erumi321/Hades2BlindAccessibility](https://github.com/erumi321/Hades2BlindAccessibility)  
