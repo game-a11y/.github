@@ -13,8 +13,12 @@
 
 - Balatro:  [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole)  
   Accessibility/Screenreader mod for Balatro.
+    - [azurejoga/balatro-automatic](https://github.com/azurejoga/balatro-automatic)  
+      Automatically install all mods necessary to play the game with accessibility for the blind.
 - Black Myth: Wukong:  [game-a11y/BlackMyth-A11y](https://github.com/game-a11y/BlackMyth-A11y)  
   黑神话：悟空的无障碍 MOD | An accessibility mod for "Black Myth: Wukong"
+- CrossCode: [CCDirectLink/CrossedEyes](https://github.com/CCDirectLink/CrossedEyes)  
+  A blind accessibility mod for CrossCode.
 - Crusader Kings III:  [Agamidae/CK3-OCR](https://github.com/Agamidae/CK3-OCR)  
   Crusader Kings 3 accessibility mod for blind and visually impaired players.
     - [Steam ::OCR Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2848213069)
@@ -52,6 +56,8 @@
       This is a mod for the game Slay the Spire and provides screen reader accessibility. 
 - Stardew Valley:  [stardew-access/stardew-access](https://github.com/stardew-access/stardew-access)  
   An accessibility mod for Stardew Valley with screen reader and keyboard only support!
+- WebFishing:  [WFMacroplastics/WebfishingYapper](https://github.com/WFMacroplastics/WebfishingYapper)  
+  TTS accessibility mod for Webfishing.
 - Yu-Gi-Oh! Master Duel (遊戯王 マスターデュエル):  [radsi/Master-Duels-BlindMode](https://github.com/radsi/Master-Duels-BlindMode)  
   This mod was created with the intention of helping blind people play YU-GI-OH Master Duels.
 
