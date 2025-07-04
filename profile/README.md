@@ -36,6 +36,8 @@
 - Minecraft: Java Edition:  [minecraft-access/minecraft-access](https://github.com/minecraft-access/minecraft-access)  
   A mod for minecraft java (fabric/neoforge) that specifically helps visually impaired players play Minecraft.  
     - Website: https://mcaccess.org/
+    - [BrailleBennett/vi-access](https://github.com/BrailleBennett/vi-access)  
+      A fabric modpack that includes many accessibility mods for blind and low vision players, as well as a host of performence and optimization mods.
 - Plants vs Zombies:  [CG8516/PvZA11y](https://github.com/CG8516/PvZA11y)  
   A blind and motor accessibility mod for Plants Vs Zombies.
 - (all) Pokémon games:   [nuive/pokemon-access](https://github.com/nuive/pokemon-access)  
