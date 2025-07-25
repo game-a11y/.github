@@ -60,6 +60,8 @@
       This is a mod for the game Slay the Spire and provides screen reader accessibility. 
 - Stardew Valley:  [stardew-access/stardew-access](https://github.com/stardew-access/stardew-access)  
   An accessibility mod for Stardew Valley with screen reader and keyboard only support!
+- Terraria: [TerrariaAccess](https://github.com/game-a11y/TerrariaAccess) (Private Repo, Under dev)  
+  An accessibility mod for Terraria.
 - WebFishing:  [WFMacroplastics/WebfishingYapper](https://github.com/WFMacroplastics/WebfishingYapper)  
   TTS accessibility mod for Webfishing.
 - Yu-Gi-Oh! Master Duel (遊戯王 マスターデュエル):  [radsi/Master-Duels-BlindMode](https://github.com/radsi/Master-Duels-BlindMode)  
